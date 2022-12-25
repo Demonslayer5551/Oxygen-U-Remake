@@ -1,0 +1,26 @@
+[Code = 0xC0000005]
+[ExceptSymbol = NoSym]
+[Eip = 0x777CBB1F]
+[Eax = 0x00000013]
+[Ebx = 0x1123A280]
+[Ecx = 0x7B7B4DD8]
+[Edx = 0x00000007]
+[Esi = 0x00000003]
+[Edi = 0x275C3C90]
+[Ebp = 0x47FEFB1C]
+[Esp = 0x47FEFB14]
+[Dll Base = 0x00000000]
+
+[File: UnkFile] [Module: oxygen.dll]    [RebaseAddr: 0x005301BE]  [BaseAddr: 0x55760000]
+[File: UnkFile] [Module: oxygen.dll]    [RebaseAddr: 0x00524F28]  [BaseAddr: 0x55760000]
+[File: UnkFile] [Module: oxygen.dll]    [RebaseAddr: 0x0061289B]  [BaseAddr: 0x55760000]
+[File: UnkFile] [Module: oxygen.dll]    [RebaseAddr: 0x005EB7B3]  [BaseAddr: 0x55760000]
+[File: UnkFile] [Module: oxygen.dll]    [RebaseAddr: 0x005E545F]  [BaseAddr: 0x55760000]
+[File: UnkFile] [Module: ucrtbase.dll]  [RebaseAddr: 0x004459D3]  [BaseAddr: 0x76C10000]
+[File: UnkFile] [Module: KERNEL32.DLL]  [RebaseAddr: 0x00417D69]  [BaseAddr: 0x76AE0000]
+[File: UnkFile] [Module: ntdll.dll]     [RebaseAddr: 0x0046BB9B]  [BaseAddr: 0x77760000]
+[File: UnkFile] [Module: ntdll.dll]     [RebaseAddr: 0x0046BB1F]  [BaseAddr: 0x77760000]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+
+
+--key is gon
